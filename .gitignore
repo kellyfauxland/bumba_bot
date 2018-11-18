@@ -1,0 +1,3 @@
+*.cert.pem
+.secrets.yml
+bumba_scratch.rb
