@@ -10,3 +10,6 @@ toy app to learn twitter's api
 
 ### Website URL
 https://bumbabot.herokuapp.com/
+
+### Me
+https://twitter.com/KellyFauxland
